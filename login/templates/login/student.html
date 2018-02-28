@@ -42,12 +42,13 @@
             <span class="caret"></span>
         </button>
 
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+        <!--<ul class="dropdown-menu"\ aria-labelledby="dropdownMenu2">-->
+        <ul>
             <form>
                 {% if courses %}
                 {% for course in courses %}
                 <li><a href = "selectcourse?course={{course.name}}">{{course.name}}</a></li>
-                {{course.name}}
+
                 {% endfor %}
                 {% endif %}
 
@@ -55,5 +56,6 @@
         </ul>
 
     </div>
+
  </body>
 </html>
