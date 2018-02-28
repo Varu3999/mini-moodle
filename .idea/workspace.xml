@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4ddd23-97b5-4edb-bf7e-62447b4b254e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/addmessage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/boots.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/coursedetails.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/message.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/student.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/studentmsg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/teacher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moodle/settings.py" afterPath="$PROJECT_DIR$/moodle/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -202,12 +191,13 @@
               <item name="moodle" type="b2602c69:ProjectViewProjectNode" />
               <item name="moodle" type="462c0819:PsiDirectoryNode" />
               <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="moodle" type="b2602c69:ProjectViewProjectNode" />
               <item name="moodle" type="462c0819:PsiDirectoryNode" />
-              <item name="moodle" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
