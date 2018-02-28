@@ -37,7 +37,7 @@ def loggedin(request):
         myc = courses.objects.filter(teacher = p)
         return render(request, 'login/teacher.html',{"user" : request.user, "mycourses": myc})
     else:
-        t = teacher.objects.filter(user=request.user)
+        t = student.objects.filter(user=request.user)
         if not t:
             print("hi")
             p = student()
